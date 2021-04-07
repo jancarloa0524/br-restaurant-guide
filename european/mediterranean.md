@@ -1,5 +1,5 @@
 # Bay Ridge Restaurant Guide
-## Asian --> Thai
+## European --> Mediterran
 ---
 Select a restaurant:
 ## [Tanoreen](https://tanoreen.com/)
